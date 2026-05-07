@@ -1,1 +1,1 @@
-console.log('Render login form with initial validation');
+console.log('Project bootstrap');
